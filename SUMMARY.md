@@ -1,20 +1,18 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Добро пожаловать](README.md)
 
-## Getting Started
+## LLE
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor/README.md)
-  * [Page 2](basics/editor/page-2.md)
-  * [Page 1](basics/editor/page-1.md)
-  * [Page](basics/editor/page.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Element](lle/element.md)
+* [Connection](lle/connection.md)
+* [Element Graph](lle/element-graph.md)
+* [Types](lle/types/README.md)
+  * [Signal](lle/types/signal.md)
+  * [Source](lle/types/source.md)
+  * [Style](lle/types/style.md)
+  * [Page](lle/types/page.md)
+  * [Interface](lle/types/interface/README.md)
+    * [Element](lle/types/interface/element.md)
+    * [Connection](lle/types/interface/connection.md)
+    * [Element Graph](lle/types/interface/element-graph.md)
