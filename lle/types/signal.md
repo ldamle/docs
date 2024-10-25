@@ -158,3 +158,4 @@ function (in_signals: ldamle.Types.signal.array): ldamle.Types.signal.array {
 Выходы элемента всегда будут `0000100010` в независимости от входных сигналов.
 
 Функция хранится в поле `state` класса `Element`.
+1234
