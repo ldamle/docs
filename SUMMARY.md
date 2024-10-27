@@ -16,3 +16,14 @@
     * [Element](lle/types/interface/element.md)
     * [Connection](lle/types/interface/connection.md)
     * [Element Graph](lle/types/interface/element-graph.md)
+# Stde
+
+- [Gates](stde/Gates/README.md)
+  - [Not](stde/Gates/Not.md)
+  - [And](stde/Gates/And.md)
+  - [Nand](stde/Gates/Nand.md)
+  - [Or](stde/Gates/Or.md)
+  - [Nor](stde/Gates/Nor.md)
+  - [Xor](stde/Gates/Xor.md)
+  - [Xnor](stde/Gates/Xnor.md)
+
