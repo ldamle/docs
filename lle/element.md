@@ -1,2 +1,6 @@
+---
+icon: tablet-rugged
+---
+
 # Element
 
