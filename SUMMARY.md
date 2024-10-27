@@ -16,7 +16,7 @@
     * [Element](lle/types/interface/element.md)
     * [Connection](lle/types/interface/connection.md)
     * [Element Graph](lle/types/interface/element-graph.md)
-# Stde
+## Stde
 
 - [Gates](stde/Gates/README.md)
   - [Not](stde/Gates/Not.md)
