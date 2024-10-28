@@ -1,6 +1,0 @@
----
-icon: tablet-rugged
----
-
-# Element
-
