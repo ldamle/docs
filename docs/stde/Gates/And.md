@@ -6,6 +6,12 @@ icon: ampersand
 
 Класс предназначен для создания побитового оператора `AND`, который выполняет логическую операцию И над входными битами.
 
+<iframe height="300" style={{width: "100%;"}} scrolling="no" title="Untitled" src="https://codepen.io/pluttan/embed/rNXpEeJ?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/pluttan/pen/rNXpEeJ">
+  Untitled</a> by pluttan (<a href="https://codepen.io/pluttan">@pluttan</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
 #### Примеры использования:
 
 ```typescript
@@ -18,10 +24,10 @@ let and2Alt = new stde.And([3, 1, 4, 2]);
 let and3Alt = new stde.And(4, 2);
 ```
 
-* **Первый параметр**
-  * Задает количество групп.
-  * Если передан массив, он задает длину каждой группы отдельно.
-* **Второй параметр** (необязательный) определяет длину каждой группы.
+- **Первый параметр**
+  - Задает количество групп.
+  - Если передан массив, он задает длину каждой группы отдельно.
+- **Второй параметр** (необязательный) определяет длину каждой группы.
 
 Приведем таблицу истинности для `and1`.
 
